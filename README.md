@@ -1,6 +1,6 @@
-# Backend do Trabalho de Banco de Dados
+# Backend do Trabalho de MATC82
 
-#### Grupo: Caio Nascimento, Gemini Vasconcelos, Iago Nascimento, Kennedy Rocha e Lávio Dias
+#### Grupo: Bruno de Lucas Santos Barbosa, ...
 
 ---
 

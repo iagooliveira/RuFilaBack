@@ -1,6 +1,6 @@
 # Backend do Trabalho de MATC82
 
-#### Grupo: Bruno de Lucas Santos Barbosa, ...
+#### Grupo: Bruno de Lucas Santos Barbosa, Milena Elen Limoeiro do Espirito Santo, ...
 
 ---
 

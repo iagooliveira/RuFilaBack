@@ -1,6 +1,6 @@
 # Backend do Trabalho de MATC82
 
-#### Grupo: Bruno de Lucas Santos Barbosa, Milena Elen Limoeiro do Espirito Santo, Laisa da Silva Pereira
+#### Grupo: Bruno de Lucas Santos Barbosa, Milena Elen Limoeiro do Espirito Santo, Laisa da Silva Pereira, Caio Oliveira Nascimento, Iago Oliveira Nascimento
 
 ---
 
